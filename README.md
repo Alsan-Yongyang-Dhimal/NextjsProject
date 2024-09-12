@@ -12,6 +12,11 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+
+// for Login Process
+username: user
+password: user
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
